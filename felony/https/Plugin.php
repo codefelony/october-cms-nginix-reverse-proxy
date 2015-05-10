@@ -1,4 +1,4 @@
-<?php namespace Felony\Https;
+<?php namespace ToanNguyenNgoc\Https;
 
 use System\Classes\PluginBase;
 
@@ -18,7 +18,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'https',
             'description' => 'Fix the schema prefix when browsing OctoberCMS in https over nginx reversed proxy',
-            'author'      => 'ToanNguyenNgoc',
+            'author'      => 'CodeFelony',
             'icon'        => 'icon-leaf'
         ];
     }
