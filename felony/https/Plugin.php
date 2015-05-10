@@ -18,7 +18,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'https',
             'description' => 'Fix the schema prefix when browsing OctoberCMS in https over nginx reversed proxy',
-            'author'      => 'felony',
+            'author'      => 'ToanNguyenNgoc',
             'icon'        => 'icon-leaf'
         ];
     }
